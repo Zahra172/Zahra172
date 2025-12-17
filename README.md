@@ -20,13 +20,6 @@
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,sass,git,github,figma)
 
----
-
-### 📊 GitHub Stats
-
-![Zahraa's GitHub stats](https://github-readme-stats.vercel.app/api?username=zahraamagdi\&show_icons=true\&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zahraamagdi\&layout=compact\&theme=dark)
 
 ---
 
@@ -40,9 +33,9 @@
 
 ### 📫 Let's Connect
 
-* 💼 [LinkedIn](https://linkedin.com)
-* 🌐 [GitHub](https://github.com/zahraamagdi)
-* 📧 Email: [zahraa@email.com](mailto:zahraa@email.com)
+* 💼 [LinkedIn](https://linkedin.com/in/zahra-magdi17)
+* 🌐 [GitHub](https://github.com/Zahra172)
+* 📧 Email: [zahramagdi15@gmail.com](mailto:zahramagdi15@gmail.com)
 
 ---
 
